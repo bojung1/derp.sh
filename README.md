@@ -1,2 +1,2 @@
 # derp.sh
-Derp.sh - bash script - each function is required to have a self documenting bug
+derp.sh - each function implented is required to have at least 1 self documenting bug
